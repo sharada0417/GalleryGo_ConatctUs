@@ -6,7 +6,8 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
 ## Contact Us Page Overview
 
 The **Contact Us** page in **GalleryGo** is a simple yet effective communication tool. This page offers users a user-friendly form where they can input their details and send their messages directly to the support team. It is designed to ensure users can easily reach out for assistance, provide feedback, or ask questions regarding the app.
-##Final output
+
+###Final output
 <img src="![photo_2025-01-05_03-03-14](https://github.com/user-attachments/assets/953add81-05a1-4881-9db8-d84cd4a17466)" width="200"  height="500"/>   <img src="![photo_2025-01-05_03-03-09](https://github.com/user-attachments/assets/deb637cf-d0be-4f55-9f69-9993e0b0a3e1)" width="200"  height="500"/>
 
 
