@@ -9,8 +9,9 @@ The **Contact Us** page in **GalleryGo** is a simple yet effective communication
 
 **Final output**
 
-![photo_2025-01-05_03-03-14](https://github.com/user-attachments/assets/953add81-05a1-4881-9db8-d84cd4a17466)"
-![photo_2025-01-05_03-03-09](https://github.com/user-attachments/assets/deb637cf-d0be-4f55-9f69-9993e0b0a3e1)"
+
+<img src="https://github.com/user-attachments/assets/953add81-05a1-4881-9db8-d84cd4a17466" width="300" height="500" /> 
+<img src="https://github.com/user-attachments/assets/deb637cf-d0be-4f55-9f69-9993e0b0a3e1" width="300" height="500" /> 
 
 
 ### Key Features:
